@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/eJ4j2VnYOZU8qJU3Py/giphy.gif" alt="Animated gamer banner" width="100%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU1NHJuZ3N1aHphMGEwcmJrZ3JqbHhjdWlpNW1qZm05YjhyNGpwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AIlrItaxPyivS/giphy.gif" alt="Animated gamer banner" width="100%" />
 
 <h1>Samuel Eliseo Martinez Aguilar</h1>
 
