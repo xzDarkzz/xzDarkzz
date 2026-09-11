@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0f766e,100:06b6d4&height=180&section=header&text=Samuel%20Eliseo%20Martinez%20Aguilar&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Samuel Eliseo Martinez Aguilar banner" />
+<img src="https://media.giphy.com/media/eJ4j2VnYOZU8qJU3Py/giphy.gif" alt="Animated gamer banner" width="100%" />
 
 <h1>Samuel Eliseo Martinez Aguilar</h1>
 
