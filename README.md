@@ -122,5 +122,4 @@
 
 <div align="center">
 	<p><i>"Build with precision. Learn without limits."</i></p>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f766e,100:111827&height=100&section=footer" alt="Footer banner" />
 </div>
