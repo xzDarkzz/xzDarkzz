@@ -53,7 +53,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-	<img src="https://skillicons.dev/icons?i=python,cs,java,js,kotlin,androidstudio,unity,visualstudio,blender,nodejs,html,css,react&perline=7" alt="Python, C sharp, Java, JavaScript, Kotlin, Android Studio, Unity, Visual Studio, Blender, Node.js, HTML, CSS and React" />
+	<img src="https://skillicons.dev/icons?i=python,cs,java,js,kotlin,androidstudio,unity,visualstudio,blender,nodejs,html,css,react,discord,github,git,postgres,arduino,aws&perline=7" alt="Python, C sharp, Java, JavaScript, Kotlin, Android Studio, Unity, Visual Studio, Blender, Node.js, HTML, CSS, React, Discord, GitHub, Git, PostgreSQL, Arduino and AWS" />
 </a>
 
 <p>
