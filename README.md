@@ -108,6 +108,18 @@
 
 </div>
 
+## `CONTRIBUTION GRID`
+
+<div align="center">
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xzDarkzz/xzDarkzz/output/github-contribution-grid-snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xzDarkzz/xzDarkzz/output/github-contribution-grid-snake.svg" />
+	<img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/xzDarkzz/xzDarkzz/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
 <div align="center">
 	<p><i>"Build with precision. Learn without limits."</i></p>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f766e,100:111827&height=100&section=footer" alt="Footer banner" />
